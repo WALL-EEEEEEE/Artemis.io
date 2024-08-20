@@ -9,7 +9,8 @@ Ease your process for job application. As we known, writing is a piece of cake, 
 - [x] CV PDF exporter
 - [x] Cover Letter PDF exporter
 - [x] Multiple cover letters and resumes management support
-- [ ] Your Job tracker (allow you to add and track your job positions) 
+- [x] Your Job tracker (allow you to add and track your job positions) 
+- [ ] Jobs from different job board sites
 - [ ] Job application through email
 - [ ] Intergrate thirdparty services to help with shining your resume, such as Grammary, ChatGPT, and so on.
 - [ ] Plugin extension
