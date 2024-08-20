@@ -1,4 +1,4 @@
-# Resume.io
+# Artemis
 
 Ease your process for job application. As we known, writing is a piece of cake, but to do it well is not a breeze, especially for writing a good CV/resume. And a good resume is a super, super, crucial staff during the process of job hunting.So I made this appliction to smooth the path for job application. 
 
