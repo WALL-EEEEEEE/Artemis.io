@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Artemis.io/static/css/main.ce7851d1.css",
-    "main.js": "/Artemis.io/static/js/main.dbd0450a.js",
+    "main.css": "/Artemis.io/static/css/main.e9f206b8.css",
+    "main.js": "/Artemis.io/static/js/main.8848af65.js",
     "static/js/692.e185df63.chunk.js": "/Artemis.io/static/js/692.e185df63.chunk.js",
     "static/js/239.53378251.chunk.js": "/Artemis.io/static/js/239.53378251.chunk.js",
     "static/js/644.018057de.chunk.js": "/Artemis.io/static/js/644.018057de.chunk.js",
@@ -14,15 +14,15 @@
     "static/media/primeicons.ttf": "/Artemis.io/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/Artemis.io/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/Artemis.io/index.html",
-    "main.ce7851d1.css.map": "/Artemis.io/static/css/main.ce7851d1.css.map",
-    "main.dbd0450a.js.map": "/Artemis.io/static/js/main.dbd0450a.js.map",
+    "main.e9f206b8.css.map": "/Artemis.io/static/css/main.e9f206b8.css.map",
+    "main.8848af65.js.map": "/Artemis.io/static/js/main.8848af65.js.map",
     "692.e185df63.chunk.js.map": "/Artemis.io/static/js/692.e185df63.chunk.js.map",
     "239.53378251.chunk.js.map": "/Artemis.io/static/js/239.53378251.chunk.js.map",
     "644.018057de.chunk.js.map": "/Artemis.io/static/js/644.018057de.chunk.js.map",
     "455.4a3f68f6.chunk.js.map": "/Artemis.io/static/js/455.4a3f68f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce7851d1.css",
-    "static/js/main.dbd0450a.js"
+    "static/css/main.e9f206b8.css",
+    "static/js/main.8848af65.js"
   ]
 }
