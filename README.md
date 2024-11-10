@@ -4,27 +4,14 @@ Ease your process for job application. As we known, writing is a piece of cake, 
 
 # Features
 
-- [x] CV editor
-- [x] Cover Letter editor (with a template syntax supported)
-- [x] CV PDF exporter
-- [x] Cover Letter PDF exporter
-- [x] Multiple cover letters and resumes management support
-- [x] Your Job tracker (allow you to add and track your job positions) 
-- [ ] Jobs from different job board sites
-- [ ] Job application through email
-- [ ] Intergrate thirdparty services to help with shining your resume, such as Grammary, ChatGPT, and so on.
-- [ ] Plugin extension
-- [ ] API export.
-
+- [x] Full fledged resume and cover letter editing experience
+- [x] Generate tailored resume and cover letter powered by AI
 
 
 # Screenshots
 
-## Resume Editor
+## Generate tailored resume and cover letter for your application (powered by AI)
 
-![resume editor](./docs/images/resume-page.png)
-
-## Cover Letter Editor
-![cover editor](./docs/images/cover-letter-page.png)
+https://github.com/WALL-EEEEEEE/Artemis/blob/main/docs/videos/generate%20taiilored%20resume%20and%20cover%20letter%20.webm
 
 
